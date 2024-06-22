@@ -1,4 +1,4 @@
-# Excluding all data 
+# Excluding all data and sensible documents
 *.csv
 *.xlsx
 *.docx
